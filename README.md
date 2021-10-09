@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muratglryz 
 - 👀 I’m interested in Node.js
-- 🌱 I’m currently learning Reaact
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Node.js
 - 📫 How to reach me muratguleryuz@live.com
 
