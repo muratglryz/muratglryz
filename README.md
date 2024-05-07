@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muratglryz 
+- 👋 Hi, I’m Murat GÜLERYÜZ
 - 👀 I’m interested in C# and .Net
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on C# ve .Net
